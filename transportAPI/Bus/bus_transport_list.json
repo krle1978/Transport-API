@@ -1,0 +1,39 @@
+[
+	{
+		"id":1,
+		"direction" : "Nis - Novi Sad",
+		"one_way" : 2720,
+		"return_ticket" : 4500
+	},
+	{
+		"id":2,
+		"direction" : "Novi Sad - Nis",
+		"one_way" : 2720,
+		"return_ticket" : 4540
+	},
+	{
+		"id":3,
+		"direction" : "Nis - Beograd",
+		"one_way" : 1470,
+		"return_ticket" : 2130
+	},
+	{
+		"id":4,
+		"direction" : "Beograd - Nis",
+		"one_way" : 1470,
+		"return_ticket" : 2130
+	},
+	{
+		"id":5,
+		"direction" : "Novi Sad - Belgrade",
+		"one_way" : 850,
+		"return_ticket" : 1490
+	},
+	{
+		"id":6,
+		"direction" : "Belgrade - Novi Sad",
+		"one_way" : 850,
+		"return_ticket" : 1490
+	}
+
+]
